@@ -1,5 +1,6 @@
 <?php
-	function suma($a, $b) {
+	// Comentario añadido
+        function suma($a, $b) {
 		/**
 		* Funcion suma
 		*
